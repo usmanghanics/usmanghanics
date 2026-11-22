@@ -13,7 +13,7 @@
 <a href="mailto:usmanghanics.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.png"><img src="assets/link-email-light.png" height="40" alt="Email usmanghanics.dev@gmail.com"></picture></a>
 </p>
 
-I'm a software engineer in Lahore. I build mobile apps that are live on Google Play and the App Store, and AI platforms and web products for companies. I work at [Veloq](https://veloq.tech/), an AI software house, and study computer science at Namal University.
+My apps are live on Google Play and the App Store with thousands of downloads, and I build AI platforms and web products for companies. Software & Application Engineer at [Veloq](https://veloq.tech/), based in Lahore, studying computer science at Namal University.
 
 ### Apps I've shipped
 
