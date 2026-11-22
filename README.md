@@ -33,7 +33,7 @@ I'm a software engineer in Lahore. I build mobile apps that are live on Google P
 
 ## Where I've worked
 
-| | Role | When |
+| Company | Role | When |
 |---|---|---|
 | **Veloq** | Software & Application Engineer | Apr 2026 – now |
 | **Fatima Group** | FG Intern, Tech (AI Automation) | Jul – Aug 2026 |
@@ -42,18 +42,18 @@ I'm a software engineer in Lahore. I build mobile apps that are live on Google P
 
 ## Awards
 
-| | Award | Event |
+| Place | Award | Event |
 |:-:|---|---|
-| 🥇 | Winner, Competitive Programming, against 188 programmers from 11 universities | CodeX 3.0, Namal University · 2025 |
-| #1 | Top of the individual leaderboard: 16,480 points, 82 challenges | CTF Square, National CERT Pakistan · 2026 |
-| 🥉 | 2nd Runner-Up, Speed Programming, against 25+ universities | AUREX 2026, Bahria University Islamabad |
-| 🥉 | 3rd, On Spot Programming | Visio Spark, COMSATS University Vehari · 2025 |
+| **1st** | Winner, Competitive Programming, against 188 programmers from 11 universities | CodeX 3.0, Namal University · 2025 |
+| **#1** | Top of the individual leaderboard: 16,480 points, 82 challenges | CTF Square, National CERT Pakistan · 2026 |
+| **3rd** | 2nd Runner-Up, Speed Programming, against 25+ universities | AUREX 2026, Bahria University Islamabad |
+| **3rd** | On Spot Programming | Visio Spark, COMSATS University Vehari · 2025 |
 
 ## Tools I ship with
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,nextjs,react,angular,ts,threejs,astro,py,fastapi,nodejs,supabase,postgres&perline=9&theme=dark">
-  <img alt="Flutter, Dart, Kotlin, Android, iOS, Firebase, Next.js, React, Angular, TypeScript, Three.js, Astro, Python, FastAPI, Node.js, Supabase, PostgreSQL" src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,apple,firebase,nextjs,react,angular,ts,threejs,astro,py,fastapi,nodejs,supabase,postgres&perline=9&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Candroidstudio%2Capple%2Cfirebase%2Cnextjs%2Creact%2Cangular%2Cts%2Cthreejs%2Castro%2Cpy%2Cfastapi%2Cnodejs%2Csupabase%2Cpostgres&amp;perline=9&amp;theme=dark">
+  <img alt="Flutter, Dart, Kotlin, Android, iOS, Firebase, Next.js, React, Angular, TypeScript, Three.js, Astro, Python, FastAPI, Node.js, Supabase, PostgreSQL" src="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Candroidstudio%2Capple%2Cfirebase%2Cnextjs%2Creact%2Cangular%2Cts%2Cthreejs%2Castro%2Cpy%2Cfastapi%2Cnodejs%2Csupabase%2Cpostgres&amp;perline=9&amp;theme=light">
 </picture>
 
 ---
