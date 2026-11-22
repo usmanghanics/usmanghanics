@@ -15,47 +15,38 @@
 
 I'm a software engineer in Lahore. I build mobile apps that are live on Google Play and the App Store, and AI platforms and web products for companies. I work at [Veloq](https://veloq.tech/), an AI software house, and study computer science at Namal University.
 
-## Apps I've shipped
+### Apps I've shipped
 
-| | App | What it does | Traction | Get it |
-|:-:|---|---|---|---|
-| <img src="assets/snapcut.png" width="44" alt=""> | [**SnapCut**](https://usmanghanics.vercel.app/work/snapcut) | A video editor that does everything on the phone: timeline, captions, beat sync, split screen. | 5K+ downloads · 4.4★ | [Google Play](https://play.google.com/store/apps/details?id=com.bluex.soundy) |
-| <img src="assets/makki-autocare.png" width="44" alt=""> | [**Makki AutoCare**](https://usmanghanics.vercel.app/work/makki-autocare) | Service history and oil-change reminders for Makki Oil Store's customers. | 1K+ downloads | [Google Play](https://play.google.com/store/apps/details?id=com.bizcare.makki_autocare) · [App Store](https://apps.apple.com/pk/app/makki-autocare/id6752372809) |
-| <img src="assets/madadgar-kisan.png" width="44" alt=""> | [**Madadgar Kisan**](https://usmanghanics.vercel.app/work/madadgar-kisan) | Fertiliser, seed and soil tests ordered from the farm, in English and Urdu. | Android and iOS | [Google Play](https://play.google.com/store/apps/details?id=com.bizcare.madadgar_kisan) · [App Store](https://apps.apple.com/pk/app/madadgar-kisan/id6825722989) |
-| <img src="assets/bizcare.png" width="44" alt=""> | [**BizCare and Biz Parta**](https://usmanghanics.vercel.app/work/bizcare) | A company's ERP in the owner's pocket: ledgers, reports, sales and production. | 2 apps on both stores | [Google Play](https://play.google.com/store/apps/details?id=com.bizcare.bizcare) · [App Store](https://apps.apple.com/pk/app/bizcare/id6752336703) |
+<p>
+<a href="https://usmanghanics.vercel.app/work/snapcut"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-snapcut-dark.png"><img src="assets/app-snapcut-light.png" width="49%" alt="SnapCut: video editor for Android. 5K+ downloads, 4.4 rating."></picture></a>
+<a href="https://usmanghanics.vercel.app/work/makki-autocare"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-makki-dark.png"><img src="assets/app-makki-light.png" width="49%" alt="Makki AutoCare: car care app on Android and iOS. 1K+ downloads."></picture></a>
+</p>
+<p>
+<a href="https://usmanghanics.vercel.app/work/madadgar-kisan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-madadgar-dark.png"><img src="assets/app-madadgar-light.png" width="49%" alt="Madadgar Kisan: farm supplies and soil tests, Android and iOS, English and Urdu."></picture></a>
+<a href="https://usmanghanics.vercel.app/work/bizcare"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-bizcare-dark.png"><img src="assets/app-bizcare-light.png" width="49%" alt="BizCare and Biz Parta: ERP apps on Android and iOS."></picture></a>
+</p>
 
-## Web platforms
+### Platforms I've built
 
-- **[bizcare.pk](https://bizcare.pk/)**: the website of BizCare Software Solutions, an ERP company serving 500+ businesses across Pakistan.
-- **[Leafyio](https://www.leafyio.io/)**: an AI platform that writes, illustrates and sells ebooks, picture books and comics.
-- **[AutoScale Agents](https://auto-scale-agents-web.vercel.app/)**: an AI outbound engine that finds prospects, writes every email from real company detail and books the replies that matter.
-- **[Talent Pool](https://harbor.veloq.tech/)**: a talent marketplace, from candidate search to contracts, e-signatures, milestones and invoicing.
+<p>
+<a href="https://bizcare.pk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-bizcarepk-dark.png"><img src="assets/web-bizcarepk-light.png" width="49%" alt="bizcare.pk: website of BizCare Software Solutions."></picture></a>
+<a href="https://www.leafyio.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-leafyio-dark.png"><img src="assets/web-leafyio-light.png" width="49%" alt="Leafyio: AI platform for ebooks, picture books and comics."></picture></a>
+</p>
+<p>
+<a href="https://auto-scale-agents-web.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-autoscale-dark.png"><img src="assets/web-autoscale-light.png" width="49%" alt="AutoScale Agents: AI outbound engine."></picture></a>
+<a href="https://harbor.veloq.tech/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-talentpool-dark.png"><img src="assets/web-talentpool-light.png" width="49%" alt="Talent Pool: talent marketplace."></picture></a>
+</p>
 
-## Where I've worked
+### Where I've worked
 
-| Company | Role | When |
-|---|---|---|
-| **Veloq** | Software & Application Engineer | Apr 2026 – now |
-| **Fatima Group** | FG Intern, Tech (AI Automation) | Jul – Aug 2026 |
-| **BizCare Software Solutions** | Software & Application Developer | Jul – Sep 2025 |
-| **BlueX Software Solutions** | Founder, Google Play developer | 2025 – now |
+<a href="https://usmanghanics.vercel.app/#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.png"><img src="assets/work-light.png" width="100%" alt="Veloq, Software and Application Engineer, Apr 2026 to now. Fatima Group, FG Intern Tech, Jul to Aug 2026. BizCare Software Solutions, Software and Application Developer, Jul to Sep 2025. BlueX Software Solutions, founder, 2025 to now. Namal University, BS Computer Science, 2023 to 2027."></picture></a>
 
-## Awards
+### Awards and rankings
 
-| Place | Award | Event |
-|:-:|---|---|
-| **1st** | Winner, Competitive Programming, against 188 programmers from 11 universities | CodeX 3.0, Namal University · 2025 |
-| **#1** | Top of the individual leaderboard: 16,480 points, 82 challenges | CTF Square, National CERT Pakistan · 2026 |
-| **3rd** | 2nd Runner-Up, Speed Programming, against 25+ universities | AUREX 2026, Bahria University Islamabad |
-| **3rd** | On Spot Programming | Visio Spark, COMSATS University Vehari · 2025 |
+<a href="https://usmanghanics.vercel.app/#achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/awards-dark.png"><img src="assets/awards-light.png" width="100%" alt="1st at CodeX 3.0. #1 on CTF Square, National CERT Pakistan. 2nd Runner-Up at AUREX 2026, Bahria University. 3rd at Visio Spark, COMSATS University Vehari."></picture></a>
 
-## Tools I ship with
+### Tools I ship with
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Candroidstudio%2Capple%2Cfirebase%2Cnextjs%2Creact%2Cangular%2Cts%2Cthreejs%2Castro%2Cpy%2Cfastapi%2Cnodejs%2Csupabase%2Cpostgres&amp;perline=9&amp;theme=dark">
-  <img alt="Flutter, Dart, Kotlin, Android, iOS, Firebase, Next.js, React, Angular, TypeScript, Three.js, Astro, Python, FastAPI, Node.js, Supabase, PostgreSQL" src="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Candroidstudio%2Capple%2Cfirebase%2Cnextjs%2Creact%2Cangular%2Cts%2Cthreejs%2Castro%2Cpy%2Cfastapi%2Cnodejs%2Csupabase%2Cpostgres&amp;perline=9&amp;theme=light">
-</picture>
+<a href="https://usmanghanics.vercel.app/#stack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.png"><img src="assets/tools-light.png" width="100%" alt="Flutter, Dart, Kotlin, Android, iOS, Firebase, Next.js, React, Angular, TypeScript, Three.js, Astro, Python, FastAPI, Node.js, Supabase, PostgreSQL, n8n"></picture></a>
 
----
-
-<sub>BS Computer Science, Namal University, 2023 – 2027 · Case studies, certificates and more at <a href="https://usmanghanics.vercel.app/">usmanghanics.vercel.app</a></sub>
+<p align="center"><sub>Case studies, certificates and more at <a href="https://usmanghanics.vercel.app/">usmanghanics.vercel.app</a></sub></p>
