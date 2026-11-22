@@ -6,11 +6,11 @@
 </a>
 
 <p align="center">
-  <a href="https://usmanghanics.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/usmanghanics">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/usmanghanics">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/developer?id=BlueX+Software+Solutions">Google Play</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:usmanghanics.dev@gmail.com">usmanghanics.dev@gmail.com</a>
+<a href="https://usmanghanics.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.png"><img src="assets/link-portfolio-light.png" height="40" alt="Portfolio"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/usmanghanics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.png"><img src="assets/link-linkedin-light.png" height="40" alt="LinkedIn"></picture></a>&nbsp;
+<a href="https://x.com/usmanghanics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.png"><img src="assets/link-x-light.png" height="40" alt="X"></picture></a>&nbsp;
+<a href="https://play.google.com/store/apps/developer?id=BlueX+Software+Solutions"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-play-dark.png"><img src="assets/link-play-light.png" height="40" alt="Google Play"></picture></a>&nbsp;
+<a href="mailto:usmanghanics.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.png"><img src="assets/link-email-light.png" height="40" alt="Email usmanghanics.dev@gmail.com"></picture></a>
 </p>
 
 I'm a software engineer in Lahore. I build mobile apps that are live on Google Play and the App Store, and AI platforms and web products for companies. I work at [Veloq](https://veloq.tech/), an AI software house, and study computer science at Namal University.
@@ -39,7 +39,11 @@ I'm a software engineer in Lahore. I build mobile apps that are live on Google P
 
 ### Where I've worked
 
-<a href="https://usmanghanics.vercel.app/#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.png"><img src="assets/work-light.png" width="100%" alt="Veloq, Software and Application Engineer, Apr 2026 to now. Fatima Group, FG Intern Tech, Jul to Aug 2026. BizCare Software Solutions, Software and Application Developer, Jul to Sep 2025. BlueX Software Solutions, founder, 2025 to now. Namal University, BS Computer Science, 2023 to 2027."></picture></a>
+<a href="https://usmanghanics.vercel.app/#experience"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.png"><img src="assets/work-light.png" width="100%" alt="Veloq, Software and Application Engineer, Apr 2026 to now. Fatima Group, FG Intern Tech, Jul to Aug 2026. BizCare Software Solutions, Software and Application Developer, Jul to Sep 2025. BlueX Software Solutions, founder, 2025 to now."></picture></a>
+
+### Education
+
+<a href="https://usmanghanics.vercel.app/about"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.png"><img src="assets/education-light.png" width="100%" alt="Namal University, BS Computer Science, 2023 to 2027. Punjab Daanish School, F.Sc Pre-Engineering, Grade A+, 2021 to 2023."></picture></a>
 
 ### Awards and rankings
 
