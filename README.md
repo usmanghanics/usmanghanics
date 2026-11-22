@@ -12,6 +12,8 @@
 
 <br/>
 
+<a href="https://usmanghanics.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Usman Ghani portfolio" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/usmanghanics/"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 &nbsp;
 <a href="mailto:usmanghanii7729@gmail.com"><img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=cc3333" /></a>
@@ -53,6 +55,8 @@
 ## About
 
 Mobile engineer with a track record of shipping production-grade, AI-integrated applications across Android and iOS. Currently in my final years of a BS Computer Science degree at **Namal University, Mianwali** while working professionally at **[Veloq](https://veloq.tech)** — an engineer-led AI software house building agentic systems, RAG pipelines, and full-stack AI products for clients across healthcare, logistics, and enterprise.
+
+My apps, case studies and awards are on my portfolio: **[usmanghanics.vercel.app](https://usmanghanics.vercel.app/)**.
 
 I design systems for production from the start: proper state management, scalable data models, cloud functions, security rules, and maintainable architecture — not throwaway demos.
 
@@ -290,6 +294,8 @@ Open To             →  Engineering roles  ·  Freelance  ·  AI-integrated pro
 
 <br/><br/>
 
+<a href="https://usmanghanics.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Usman Ghani portfolio" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/usmanghanics/"><img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
 &nbsp;
 <a href="mailto:usmanghanii7729@gmail.com"><img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=cc3333" /></a>
